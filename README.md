@@ -14,7 +14,7 @@ N <= 10^9
 Output Format
 Two numbers X and Y denoting the rest of the numbers of the Pythagorean triplet in increasing order.
 
-Sample Input
+Sample Input:
 3
-Sample Output
+Sample Output:
 4 5
